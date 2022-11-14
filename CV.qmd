@@ -1,0 +1,21 @@
+---
+title: "Resume/CV"
+comments: false
+editor: visual
+format: 
+  html:
+    page-layout: full
+    smooth-scroll: true
+---
+
+<a class="btn btn-primary" href="CV.pdf" role="button">Open PDF in new window</a>
+
+<center>
+
+<iframe src="CV.pdf" width="100%" title="CV" height="750px;">
+
+</iframe>
+
+</center>
+
+------------------------------------------------------------------------
